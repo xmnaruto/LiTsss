@@ -115,4 +115,6 @@ adb shell reboot
 
 ## 参考资料
 PCB设计参考：
+[FunnyPi-全志T113-S3卡片电脑](https://oshwhub.com/flose/funnypi-quanzhi-t113-s3-card-computer)
+软件开发参考：
 [全志T113-S3智能家居86屏](https://oshwhub.com/fanhuacloud/t113-s3-86panel)
