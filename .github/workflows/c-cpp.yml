@@ -17,9 +17,6 @@ jobs:
       with:
         submodules: recursive
 
-    - name: Build
-      run: bash ./build.sh
-
     - name: Pack
       run: tar -cf UDISK.tar UDISK
     
